@@ -5,10 +5,7 @@ This week we'll be starting with the back end part of Web Development, through t
 
 If you already know the basics of Python, dive right in to the Django tutorials. Even if you don't know Python or just aren't comfortable with it, we have some great resourses for you to build a working base of Python.
 
-Link for brief tutorials on:
- - [Python](./supplements/Python.md)
- - [pip](./supplements/pip.md)
- - [virtualenv](./supplements/virtualenv.md)
+[Link](./extra/help.md) for brief tutorials on Python and pip
 
 
 ### What is Django?
