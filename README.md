@@ -41,9 +41,9 @@ Here is a [video](https://youtu.be/UmljXZIypDc?list=PL-osiE80TeTtoQCKZ03TU5fNfx2
 
 Once Django is up and running, its time to get your hands dirty with some code.
 
-We'll be using the learning by implementation approach, so that you can build something as you continue to learn. So, take a look at these [tutorials](https://docs.djangoproject.com/en/3.0/intro/tutorial01/), wherein you'll be building a basic poll application. Visit all the 7 parts of the tutorial to get your poll site ready to deploy.
+We'll be using the learning by implementation approach, so that you can build something as you continue to learn. So, take a look at this [YouTube Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) that guides through making a basic blog application with Django.  
 
-Alternatively, we recommend a [YouTube Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) that guides through making a basic blog application with Django. 
+Alternatively, we recommend a [tutorials](https://docs.djangoproject.com/en/3.0/intro/tutorial01/), wherein you'll be building a basic poll application. Visit all the 7 parts of the tutorial to get your poll site ready to deploy.
 
 ### Note: 
 We require that you only go through either text or video tutorials for the creating the application. Both cover more-or-less the same amount of content. There is no need to go through both. ___Make sure that you build the project along with the tutorials as you will need to submit those by the end of the week.___
